@@ -20,8 +20,10 @@ rvm install 2.7.6
 rvm alias create default 2.7.6
 
 
+
 #Install Cocoapods
 sudo gem install cocoapods
+
 
 # Install Gem dependencies
 bundle install 
