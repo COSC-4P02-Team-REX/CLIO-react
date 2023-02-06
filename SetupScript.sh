@@ -24,6 +24,11 @@ bundle install
 # Install NPM dependencies
 npm install
 
+#Install Cocoapods
+export GEM_HOME=$HOME/.gem
+export PATH=$GEM_HOME/bin:$PATH
+gem install cocoapods --user-install
+
 # Install CocoaPods dependencies
 cd ios
 # Install CocoaPods
