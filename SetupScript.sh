@@ -31,7 +31,7 @@ pod install
 
 # Opens up Xcode workspace and all you have to do is press build. 
 # P.S. wait for it to build pods before you press build
-open -a Xcode ./ios/CLIO.xcworkspace
+open -a Xcode ./CLIO.xcworkspace
 
 
 
